@@ -1,0 +1,16 @@
+order_id,region,product,quantity,unit_price
+1001,South,Laptop,2,1200.00
+1002,North,Laptop,3,1200.00
+1003,West,Monitor,4,220.00
+1004,East,Monitor,5,220.00
+1005,South,Monitor,1,220.00
+1006,North,Laptop,2,1200.00
+1007,West,Laptop,3,1200.00
+1008,East,Laptop,4,1200.00
+1009,South,Monitor,5,220.00
+1010,North,Monitor,1,220.00
+1011,West,Monitor,2,220.00
+1012,East,Laptop,3,1200.00
+1013,,Laptop,4,1200.00
+1014,North,Laptop,5,1200.00
+1015,West,Monitor,1,220.00

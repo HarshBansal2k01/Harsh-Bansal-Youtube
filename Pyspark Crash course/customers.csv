@@ -1,0 +1,14 @@
+customer_id,customer,region,loyalty_tier,signup_date
+2001,Asha,East,Gold,2024-01-15
+2002,Ben,West,Silver,2024-02-15
+2003,Chen,North,Bronze,2024-03-15
+2004,Divya,South,Gold,2024-04-15
+2005,Eli,East,Silver,2024-05-15
+2006,Fatima,West,Bronze,2024-06-15
+2007,Gabe,North,Gold,2024-07-15
+2008,Hana,South,Silver,2024-08-15
+2009,Ishan,East,Bronze,2024-09-15
+2010,Jia,West,Gold,2024-10-15
+2011,Kiran,North,Silver,2024-11-15
+2012,Lina,South,Bronze,2024-12-15
+2099,Unknown Customer,Central,New,2025-06-10

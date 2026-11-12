@@ -1,0 +1,7 @@
+product_id,product,unit_price,category
+P101,Laptop,1200.00,Electronics
+P102,Mouse,25.00,Accessories
+P103,Keyboard,75.00,Accessories
+P104,Monitor,220.00,Electronics
+P105,Headphones,85.00,Accessories
+P106,Webcam,60.00,Accessories
